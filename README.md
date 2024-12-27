@@ -1,27 +1,19 @@
 # 23 types of visualizations and queries performed are:
-1. Heatmap:
-   How do you compute and visualize the correlation matrix for the numerical columns in the DataFrame using a heatmap?
+1. Heatmap:How do you compute and visualize the correlation matrix for the numerical columns in the DataFrame using a heatmap?
 
-2. Regplot:  
-   How can you develop a regression model to analyze and visualize the relationship between CustomerId and Age?
+2. Regplot:How can you develop a regression model to analyze and visualize the relationship between CustomerId and Age?
 
-3. To_datetime:  
-   How do you convert the index to datetime format for improved time-based analysis?
+3. To_datetime:How do you convert the index to datetime format for improved time-based analysis?
 
-4. Displot:
-   How can you create a distribution plot (displot) to visualize the distribution of Loan Taken values?
+4. Displot:How can you create a distribution plot (displot) to visualize the distribution of Loan Taken values?
 
-5. Histogram: 
-   How do you create a histogram to visualize the distribution of Age values?
+5. Histogram:How do you create a histogram to visualize the distribution of Age values?
 
-6. Countplot: 
-   How can you create a count plot to visualize the distribution of Loan Cleared values?
+6. Countplot:How can you create a count plot to visualize the distribution of Loan Cleared values?
 
-7. Bar Chart: 
-   How do you create a bar plot to visualize the relationship between Exited and Loan Cleared variables?
+7. Bar Chart:How do you create a bar plot to visualize the relationship between Exited and Loan Cleared variables?
 
-8. Lineplot:
-   How do you create a line plot to visualize the relationship between Age and CreditScore?
+8. Lineplot:How do you create a line plot to visualize the relationship between Age and CreditScore?
 
 9. Violinplot: 
    How can you create a violin plot to visualize the distribution of the Balance variable?
@@ -29,44 +21,31 @@
 10. Scatterplot: 
     How do you create a scatter plot to visualize the relationship between Age and Location?
 
-11. Pie Chart:  
-    How do you create a pie chart to visualize the distribution of Age values?
+11. Pie Chart:How do you create a pie chart to visualize the distribution of Age values?
 
-12. Sorting DataFrame:  
-    How do you sort the DataFrame by the Location column in ascending order and display the first 10 rows?
+12. Sorting DataFrame:How do you sort the DataFrame by the Location column in ascending order and display the first 10 rows?
 
-13. Pie Chart:
-    How do you create a pie chart to visualize the distribution of Exited values?
+13. Pie Chart:How do you create a pie chart to visualize the distribution of Exited values?
 
-14. Value_counts:  
-    How do you count the occurrences of each unique CustomerName?
+14. Value_counts:How do you count the occurrences of each unique CustomerName?
 
-15. FacetGrid and Scatterplot:  
-    How do you create a facet grid of scatter plots for each unique Location to visualize the relationship between Age and CreditScore?
+15. FacetGrid and Scatterplot:How do you create a facet grid of scatter plots for each unique Location to visualize the relationship between Age and CreditScore?
 
-16. Heatmap: 
-    How do you create a heatmap to visualize the CreditScore column with annotated values?
+16. Heatmap:How do you create a heatmap to visualize the CreditScore column with annotated values?
 
-17. Countplot:  
-    How do you create a count plot to visualize the frequency distribution of Gender values?
+17. Countplot:How do you create a count plot to visualize the frequency distribution of Gender values?
 
-18. FacetGrid and Scatterplot:  
-    How do you create a facet grid of scatter plots to visualize the relationship between Age and CreditScore for each Exited value?
+18. FacetGrid and Scatterplot:How do you create a facet grid of scatter plots to visualize the relationship between Age and CreditScore for each Exited value?
 
-19. Box Plot:
-    How do you create a box plot to visualize the distribution and spread of values across all numerical columns?
+19. Box Plot:How do you create a box plot to visualize the distribution and spread of values across all numerical columns?
 
-20. Correlation between Features:  
-    How do you compute and visualize the correlation matrix for numerical columns in the DataFrame using a heatmap?
+20. Correlation between Features:How do you compute and visualize the correlation matrix for numerical columns in the DataFrame using a heatmap?
 
-21. Value_counts
-    How do you calculate the count of unique values in the Location column?
+21. Value_counts:How do you calculate the count of unique values in the Location column?
 
-22. Sorting DataFrame:  
-    How do you sort the DataFrame by the Age column in ascending order and display the top 10 rows?
+22. Sorting DataFrame:How do you sort the DataFrame by the Age column in ascending order and display the top 10 rows?
 
-23. Violinplot:  
-    How do you create a violin plot to visualize the distribution and density of CreditScore values?
+23. Violinplot:How do you create a violin plot to visualize the distribution and density of CreditScore values?
 
 # Visualization output screenshots are:
 ![1](https://github.com/user-attachments/assets/c5ce7ced-60bd-4020-9bfe-c4913d0c3f2a)
