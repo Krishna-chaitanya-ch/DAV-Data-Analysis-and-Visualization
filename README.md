@@ -1,3 +1,5 @@
+# Data-Analysis-and-Visualization
+
 # 23 types of visualizations and queries performed are:
 1. Heatmap: How do you compute and visualize the correlation matrix for the numerical columns in the DataFrame using a heatmap?
 
